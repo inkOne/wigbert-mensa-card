@@ -1,9 +1,8 @@
 # Mensa Card generator
-The mensa at https://stein.schule use EAN-13 bar codes as mensa cards.
+The mensa at [https://www.wigbertschule.de/](https://www.wigbertschule.de/) use EAN-13 bar codes as mensa cards.
 This generator builds a chip-card sized model to be 3D-printed which contains the student code, the name and the logo.
 
 ![Code](./images/code.png)
-![Name](./images/name.png)
 
 ## Generate the card
 Edit the [card.scad](./card.scad) file and enter your name and code on top of the file.
